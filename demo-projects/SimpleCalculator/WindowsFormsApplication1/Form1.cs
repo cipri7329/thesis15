@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using UtilsCSharp;
 
 namespace WindowsFormsApplication1
 {
@@ -23,8 +24,8 @@ namespace WindowsFormsApplication1
             string number1String = this.number1TextBox.Text;
             string number2String = this.number2TextBox.Text;
 
-            int number1 = 1;
-            int number2 = 2;
+            int number1 = ConverterUtils.convertStringToInt(number1String);
+            int number2 = ConverterUtils.convertStringToInt(number2String);
             int result = number1 + number2;
             
             this.resultTextBox.Text = "" + result;

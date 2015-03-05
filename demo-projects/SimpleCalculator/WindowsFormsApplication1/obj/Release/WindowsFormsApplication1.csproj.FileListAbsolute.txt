@@ -3,3 +3,14 @@ C:\_FILES_\-=GoogleDrive\-=TUM\4.SS15\thesis2015\demo-projects\SimpleCalculator\
 C:\_FILES_\-=GoogleDrive\-=TUM\4.SS15\thesis2015\demo-projects\SimpleCalculator\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
 C:\_FILES_\-=GoogleDrive\-=TUM\4.SS15\thesis2015\demo-projects\SimpleCalculator\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
 C:\_FILES_\-=GoogleDrive\-=TUM\4.SS15\thesis2015\demo-projects\SimpleCalculator\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\_DEV_\thesis2015-git\demo-projects\SimpleCalculator\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\_DEV_\thesis2015-git\demo-projects\SimpleCalculator\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\_DEV_\thesis2015-git\demo-projects\SimpleCalculator\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\_DEV_\thesis2015-git\demo-projects\SimpleCalculator\WindowsFormsApplication1\bin\Release\UtilsCSharp.dll
+C:\_DEV_\thesis2015-git\demo-projects\SimpleCalculator\WindowsFormsApplication1\bin\Release\UtilsCSharp.pdb
+C:\_DEV_\thesis2015-git\demo-projects\SimpleCalculator\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\_DEV_\thesis2015-git\demo-projects\SimpleCalculator\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\_DEV_\thesis2015-git\demo-projects\SimpleCalculator\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\_DEV_\thesis2015-git\demo-projects\SimpleCalculator\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\_DEV_\thesis2015-git\demo-projects\SimpleCalculator\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\_DEV_\thesis2015-git\demo-projects\SimpleCalculator\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb

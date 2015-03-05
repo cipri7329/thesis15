@@ -3,3 +3,8 @@ C:\_FILES_\-=GoogleDrive\-=TUM\4.SS15\thesis2015\demo-projects\UtilsCSharp\Utils
 C:\_FILES_\-=GoogleDrive\-=TUM\4.SS15\thesis2015\demo-projects\UtilsCSharp\UtilsCSharp\obj\Debug\UtilsCSharp.dll
 C:\_FILES_\-=GoogleDrive\-=TUM\4.SS15\thesis2015\demo-projects\UtilsCSharp\UtilsCSharp\obj\Debug\UtilsCSharp.pdb
 C:\_FILES_\-=GoogleDrive\-=TUM\4.SS15\thesis2015\demo-projects\UtilsCSharp\UtilsCSharp\obj\Debug\UtilsCSharp.csprojResolveAssemblyReference.cache
+C:\_DEV_\thesis2015-git\demo-projects\UtilsCSharp\UtilsCSharp\bin\Debug\UtilsCSharp.dll
+C:\_DEV_\thesis2015-git\demo-projects\UtilsCSharp\UtilsCSharp\bin\Debug\UtilsCSharp.pdb
+C:\_DEV_\thesis2015-git\demo-projects\UtilsCSharp\UtilsCSharp\obj\Debug\UtilsCSharp.csprojResolveAssemblyReference.cache
+C:\_DEV_\thesis2015-git\demo-projects\UtilsCSharp\UtilsCSharp\obj\Debug\UtilsCSharp.dll
+C:\_DEV_\thesis2015-git\demo-projects\UtilsCSharp\UtilsCSharp\obj\Debug\UtilsCSharp.pdb
